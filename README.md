@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankushanirudha
-- 👀 I’m interested in developing large scale insurace businessp process applications 
+- 👀 I’m interested in developing large scale insurance businessp process application
 - 🌱 I’m currently learning JAVA and C#
 - 💞️ I’m looking to collaborate on projects related to insurance business
 - 📫 How to reach me 
